@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "222W31W L-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.013951333100955,
+          50.66321192584513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "222W30/1W31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.01386715823983,
+          50.662998200218816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "223W30/1W30/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.01390448847079,
+          50.66298526787935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "222W30/2W30/1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.014388647024948,
+          50.66277251057327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "222W30/3W30/2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.014768169628137,
+          50.66255146668923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "223W30/3W30/3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.0147402944118,
+          50.66257200399213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "111WBNW30/3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.01482146434116,
+          50.66253363979176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "111WBNW30/3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.014840042480113,
+          50.66252649110369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "d:\\!!!KOE\\OTRS\\2017090110000075\\VIDVID K-05-17-0074 Hmel",
+        "Description": "111WBNW30/3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.014838791321488,
+          50.662546198852
+        ]
+      }
+    }
+  ]
+}
